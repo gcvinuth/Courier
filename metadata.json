@@ -1,0 +1,6 @@
+{
+  "name": "Monsoon Courier",
+  "description": "A 3D endless-riding courier game through monsoon city streets with dynamic weather, cargo physics, traffic, and garage upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
